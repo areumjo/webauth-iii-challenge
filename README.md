@@ -36,6 +36,13 @@ knex migrate:latest
 npm install jsonwebtoken
 npm install bcryptjs
 ```
+- Build front-end page
+```bash
+npm init react-app client
+cd client
+npm install react-router-dom
+npm install axios
+```
 
 ## Assignment
 
