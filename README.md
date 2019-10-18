@@ -24,6 +24,12 @@ npm install helmet
 npm install cors
 npm install dovenv
 ```
+- For database
+```bash
+npm install knex --save
+npm install knex sqlite3
+knex migrate:make users
+```
 
 ## Assignment
 
