@@ -16,6 +16,14 @@ In this project we'll implement a full authentication workflow (register/login/l
 - **Fork** and **Clone** this repository.
 - **CD into the folder** where you cloned the repository.
 - Do your magic!
+```bash
+npm init -y
+npm install express
+npm i nodemon -D
+npm install helmet
+npm install cors
+npm install dovenv
+```
 
 ## Assignment
 
