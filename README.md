@@ -29,6 +29,12 @@ npm install dovenv
 npm install knex --save
 npm install knex sqlite3
 knex migrate:make users
+knex migrate:latest
+```
+- For authentication
+```bash
+npm install jsonwebtoken
+npm install bcryptjs
 ```
 
 ## Assignment
